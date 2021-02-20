@@ -1,0 +1,26 @@
+.detailsContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.details {
+  padding: 0 2rem;
+  flex: 1;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+
+.tagline {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.meta {
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 80vw;
+  margin: 2rem auto;
+
+  background-color: #f8f8f8;
+}
