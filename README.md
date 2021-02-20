@@ -4,6 +4,8 @@ A movie application built using React + Typescript which uses [The Movie DB API]
 
 It uses the Context API and the useReducer hook to handle the application state.
 
+[Demo](http://movieapp-20210220144458-hostingbucket-dev.s3-website-us-east-1.amazonaws.com/)
+
 ## Setup and run
 
 ### Install
@@ -11,6 +13,7 @@ It uses the Context API and the useReducer hook to handle the application state.
 ```bash
 # using npm
 npm install
+
 # using yarn
 yarn install
 ```
