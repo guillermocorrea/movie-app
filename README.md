@@ -17,7 +17,7 @@ yarn install
 
 ### Environment variables
 
-Rename the `.env.example` file as `.env` and set the value for the key `REACT_APP_API_KEY` with you own [API key](https://www.themoviedb.org/settings/api).
+Rename the `.env.example` file as `.env` and set the value for the key `REACT_APP_API_KEY` with your own [API key](https://www.themoviedb.org/settings/api).
 
 ### Start
 
